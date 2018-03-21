@@ -1,0 +1,8 @@
+<html>
+  <head>
+    <title>Mote Layout</title>
+  </head>
+  <body>
+    {{ content }}
+  </body>
+</html>
