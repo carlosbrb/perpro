@@ -8,16 +8,12 @@
     <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/siimple@3.0.0/dist/siimple.min.css">
     <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/siimple-colors@0.2.0/dist/siimple-colors.min.css">
     <link rel="stylesheet" href="/public/css/styles.css" type="text/css" />
-    <title>Profile</title>
+    <title>Admin Area</title>
   </head>
   <body>
-    <div class="siimple-navbar siimple-navbar--blue siimple-navbar--fluid">
+    <div class="siimple-navbar siimple-navbar--red siimple-navbar--fluid">
       <div class="siimple-layout--left">
-        <a class="siimple-navbar-title">{{me}}</a>
-      </div>
-      <div class="siimple-layout--right">
-        <a class="siimple-navbar-link">Profile</a>
-        <a class="siimple-navbar-link">Blog</a>
+        <a class="siimple-navbar-title">Admin Area</a>
       </div>
     </div>
     <div class="siimple-content siimple-layout margined">

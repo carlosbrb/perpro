@@ -10,3 +10,9 @@ test:
       database: perpro_test
       hosts:
         - localhost:27017
+production:
+  clients:
+    default:
+      database: perpro
+      hosts:
+        - localhost:27017

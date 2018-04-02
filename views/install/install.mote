@@ -1,0 +1,26 @@
+<center>
+  <div class="page-header">
+    <h1>Install your Personal Profile (PerPro)</h1>
+  </div>
+  <div class="siimple-box siimple-box--white">
+      <form action="" method="post">
+        <div class="siimple-form-field">
+           <div class="siimple-form-field-label">Email</div>
+           <input type="text" name="username" class="siimple-input" placeholder="you@company.com">
+           <div class="siimple-form-field-helper">This field can't be empty</div>
+        </div>
+        <div class="siimple-form-field">
+           <div class="siimple-form-field-label">Password</div>
+           <input type="password" name="password" class="siimple-input">
+           <div class="siimple-form-field-helper">This field can't be empty</div>
+        </div>
+        <div class="siimple-form-field">
+           <div class="siimple-form-field-label">Repeat your password</div>
+           <input type="password" name="password_confirmation" class="siimple-input">
+           <div class="siimple-form-field-helper">This field can't be empty</div>
+        </div>
+
+        <button class="siimple-btn" type="submit" name="submit">Install</button>
+      </form>
+  </div>
+</center>
